@@ -1,0 +1,12 @@
+<config>
+	<settings>
+		<folder_path>/Users/ryanmissett/Desktop/sync_folder/</folder_path>
+		<refresh_rate>300</refresh_rate>
+		<help>Welcome to the Crypto Dropbox utility tool. This tool exists in two parts. One part is the GUI front end that the novice user can use to acomplish some of the more basic tasks with this program. The GUI also allows you to encrypt files to other people using their public key. The main thing to do with this tool is change the path that is monitored by Crypto. Simply enter the path of the folder to be monitored and click the apply button.\n\n The other thing you can acomplish is, as was said before, the ability to encrypt files for other people using their public key. Simply click the sharing tab at the top of this window and choose the file to encrypt using the file tree. When you find the file in the tree you can expand this file again using to arrow to the side of the name and choose the email address of the person to encrypt it to. Simply click the email and the file is encrypted and placed in a special 'Outbox' folder in your monitored directory. You can then send the file to the person however you wish. Either use the dropbox website to generate a sharing URL or simply email the file to the person.</help>
+	</settings>
+	<keys>
+		<user email="#####################">
+			<public>################</public>
+		</user>
+	</keys>
+</config>
